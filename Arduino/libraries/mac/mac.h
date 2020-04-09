@@ -1,0 +1,2 @@
+// change the below to six hex values of your choosing
+byte mac[] = {0xE4, 0xE4, 0xE5, 0xE9, 0xE4, 0xE4};
